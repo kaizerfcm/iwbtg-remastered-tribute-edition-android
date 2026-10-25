@@ -1,3 +1,14 @@
+## Android build
+
+This repository will host the **Android** release of I Wanna Be The Guy: Remastered Tribute Edition.
+There is no release yet; the Android build is still being tested. Watch this repository to hear about the first release.
+
+**Controls (planned):** on-screen touch buttons, with Jump at the lower right and Shoot just up-left of it; controllers also work.
+
+**Other platforms:** [PS5](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition) | [Windows](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-windows) | [Linux](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-linux) | [Nintendo Switch](https://github.com/kaizerfcm/iwbtg-remastered-tribute-edition-switch) | [itch.io](https://shmshp.itch.io/iwbtgrt)
+
+---
+
 # I Wanna Be The Guy: Remastered Tribute Edition
 
 <img src="sce_sys/icon0.png" width="128" align="right">
